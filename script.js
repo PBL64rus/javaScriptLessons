@@ -5,4 +5,5 @@ const rollback = "Отменить оплату";
 const fullPrice = "Все цены";
 const adaptive = "Оптимизировать цену";
 
-alert(title);  
+alert(title);
+console.log('Цена просмотра', screenPrice);
